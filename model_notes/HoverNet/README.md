@@ -1,7 +1,6 @@
 # HoVer-Net Model Notes
 
 
-# HoVer-Net Model Review
 
 ## Overview
 
